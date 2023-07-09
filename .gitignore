@@ -123,6 +123,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+iot-venv/
 .env
 .venv
 env/
